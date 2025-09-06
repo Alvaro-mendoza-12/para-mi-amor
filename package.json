@@ -1,0 +1,20 @@
+{
+  "name": "mi-novia-rebeka",
+  "version": "1.0.0",
+  "description": "Una página web dedicada a mi novia Rebeka, mostrando mi amor por ella.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "amor",
+    "novia",
+    "rebeka"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
